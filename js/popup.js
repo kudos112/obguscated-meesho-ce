@@ -1,257 +1,283 @@
-const _0x151c96 = _0x985f;
-function _0x985f(_0x2048dd, _0x1b4577) {
-  const _0x53d465 = _0x53d4();
+const _0x285085 = _0x55f3;
+function _0x4a01() {
+  const _0x5061b4 = [
+    ".xlsx,\x20.xls",
+    "log",
+    "No\x20form\x20data\x20found,\x20Please\x20Upload\x20An\x20Excel\x20file",
+    "<p>",
+    "tabs",
+    "disabled",
+    "get",
+    "className",
+    "createElement",
+    "text/css",
+    "Fill\x20the\x20Form",
+    "getElementById",
+    "assign",
+    "storage",
+    "sendMessage",
+    "<h3>Form\x20Data</h3>",
+    "textContent",
+    "file-input",
+    "addEventListener",
+    "4px",
+    "head",
+    "mouseup",
+    "1px\x20solid\x20#ccc",
+    "4833360oucXnB",
+    "utils",
+    "15240672gTAQzf",
+    "#555",
+    "type",
+    "16px",
+    "all\x200.2s\x20ease",
+    "7HHMIok",
+    "query",
+    "Choose\x20Excel\x20File",
+    "SheetNames",
+    "none",
+    "Sheets",
+    "file-text",
+    "mousedown",
+    "binary",
+    "input",
+    "readAsBinaryString",
+    "files",
+    "#ffffff",
+    "10px",
+    "16170190XxUKbI",
+    "\x0a\x20\x20.button-active\x20{\x0a\x20\x20\x20\x20transform:\x20translateY(4px)\x20scale(0.98)\x20!important;\x0a\x20\x20\x20\x20box-shadow:\x200px\x202px\x205px\x20rgba(0,\x200,\x200,\x200.1)\x20!important;\x0a\x20\x20}\x0a",
+    "formData",
+    "DOMContentLoaded",
+    "button",
+    "innerHTML",
+    "405YsWUNO",
+    "label",
+    "set",
+    "7476bNFaAv",
+    "appendChild",
+    "1194747bdpCMS",
+    "classList",
+    "100%",
+    "excelFileBtn",
+    "accept",
+    "8px",
+    "target",
+    "add",
+    "flex",
+    "form-details",
+    "2722368iOFFRD",
+    "file",
+    "file-label",
+    "fill_form",
+    "button-active",
+    "25HedEZm",
+    "div",
+    "Filling...",
+    "</p>",
+    "forEach",
+    "mouseleave",
+    "sheet_to_json",
+    "ellipsis",
+    "name",
+    "35378HMohIk",
+    "span",
+    "pointer",
+    "style",
+    "remove",
+  ];
+  _0x4a01 = function () {
+    return _0x5061b4;
+  };
+  return _0x4a01();
+}
+function _0x55f3(_0x44dc3e, _0x4843a5) {
+  const _0x4a01d2 = _0x4a01();
   return (
-    (_0x985f = function (_0x985f8, _0x441e0c) {
-      _0x985f8 = _0x985f8 - 0x185;
-      let _0x456812 = _0x53d465[_0x985f8];
-      return _0x456812;
+    (_0x55f3 = function (_0x55f343, _0x52fbd4) {
+      _0x55f343 = _0x55f343 - 0x89;
+      let _0x41a87f = _0x4a01d2[_0x55f343];
+      return _0x41a87f;
     }),
-    _0x985f(_0x2048dd, _0x1b4577)
+    _0x55f3(_0x44dc3e, _0x4843a5)
   );
 }
-(function (_0x1144ee, _0x597fcf) {
-  const _0x489de0 = _0x985f,
-    _0x1d8ecd = _0x1144ee();
+(function (_0x53c2dc, _0x39596a) {
+  const _0x25682a = _0x55f3,
+    _0x526db3 = _0x53c2dc();
   while (!![]) {
     try {
-      const _0x423b22 =
-        (-parseInt(_0x489de0(0x191)) / 0x1) *
-          (parseInt(_0x489de0(0x1b8)) / 0x2) +
-        parseInt(_0x489de0(0x1a2)) / 0x3 +
-        (-parseInt(_0x489de0(0x19d)) / 0x4) *
-          (parseInt(_0x489de0(0x1b0)) / 0x5) +
-        parseInt(_0x489de0(0x1c4)) / 0x6 +
-        (parseInt(_0x489de0(0x199)) / 0x7) *
-          (-parseInt(_0x489de0(0x1cd)) / 0x8) +
-        (parseInt(_0x489de0(0x1a4)) / 0x9) *
-          (parseInt(_0x489de0(0x1c1)) / 0xa) +
-        -parseInt(_0x489de0(0x1c0)) / 0xb;
-      if (_0x423b22 === _0x597fcf) break;
-      else _0x1d8ecd["push"](_0x1d8ecd["shift"]());
-    } catch (_0x5e0456) {
-      _0x1d8ecd["push"](_0x1d8ecd["shift"]());
+      const _0x379fe3 =
+        (parseInt(_0x25682a(0xb8)) / 0x1) * (parseInt(_0x25682a(0xc1)) / 0x2) +
+        -parseInt(_0x25682a(0xa9)) / 0x3 +
+        (-parseInt(_0x25682a(0xa7)) / 0x4) * (parseInt(_0x25682a(0xa4)) / 0x5) +
+        parseInt(_0x25682a(0x89)) / 0x6 +
+        (-parseInt(_0x25682a(0x90)) / 0x7) *
+          (-parseInt(_0x25682a(0xb3)) / 0x8) +
+        -parseInt(_0x25682a(0x8b)) / 0x9 +
+        parseInt(_0x25682a(0x9e)) / 0xa;
+      if (_0x379fe3 === _0x39596a) break;
+      else _0x526db3["push"](_0x526db3["shift"]());
+    } catch (_0x256a2b) {
+      _0x526db3["push"](_0x526db3["shift"]());
     }
   }
-})(_0x53d4, 0x3dc28);
+})(_0x4a01, 0xeae06);
 const fileInputStyles = {
-    display: _0x151c96(0x1ab),
-    alignItems: _0x151c96(0x1ba),
-    gap: _0x151c96(0x18e),
-    cursor: _0x151c96(0x1be),
-    padding: _0x151c96(0x18e),
-    border: _0x151c96(0x1b1),
-    borderRadius: _0x151c96(0x195),
+    display: _0x285085(0xb1),
+    alignItems: "center",
+    gap: _0x285085(0xae),
+    cursor: _0x285085(0xc3),
+    padding: _0x285085(0xae),
+    border: _0x285085(0xdc),
+    borderRadius: "4px",
     backgroundColor: "#f9f9f9",
-    color: _0x151c96(0x1a3),
-    marginBottom: "10px",
+    color: _0x285085(0x8c),
+    marginBottom: _0x285085(0x9d),
   },
   buttonStyles = {
-    padding: _0x151c96(0x19c),
-    borderRadius: _0x151c96(0x195),
+    padding: "8px\x2016px",
+    borderRadius: _0x285085(0xd9),
     backgroundColor: "#049dde",
-    color: _0x151c96(0x1ae),
-    border: _0x151c96(0x1a7),
-    cursor: _0x151c96(0x1be),
-    fontSize: _0x151c96(0x1c5),
-    fontWeight: _0x151c96(0x1b9),
-    width: "100%",
+    color: _0x285085(0x9c),
+    border: _0x285085(0x94),
+    cursor: _0x285085(0xc3),
+    fontSize: _0x285085(0x8e),
+    fontWeight: "bold",
+    width: _0x285085(0xab),
+    transition: _0x285085(0x8f),
+    boxShadow: "0px\x205px\x2015px\x20rgba(0,\x200,\x200,\x200.1)",
+    outline: _0x285085(0x94),
   },
   fileTextStyles = {
     flex: 0x1,
-    whiteSpace: _0x151c96(0x1b2),
-    overflow: _0x151c96(0x197),
-    textOverflow: "ellipsis",
+    whiteSpace: "nowrap",
+    overflow: "hidden",
+    textOverflow: _0x285085(0xbf),
   },
-  fileInputHiddenStyles = { display: _0x151c96(0x1a7) };
+  fileInputHiddenStyles = { display: "none" };
 function fetchFormValues() {
-  const _0x4c0f22 = _0x151c96;
-  chrome[_0x4c0f22(0x1bd)][_0x4c0f22(0x1bb)][_0x4c0f22(0x190)](
-    _0x4c0f22(0x18b),
-    function (_0x5cdc9c) {
-      const _0xc389b9 = _0x4c0f22,
-        _0x12e09c = _0x5cdc9c[_0xc389b9(0x18b)] || null,
-        _0x19da7b = document[_0xc389b9(0x1a8)]("form-details");
-      if (_0x12e09c) {
-        let _0x1aed68 = "";
-        _0x1aed68 += "<h3>Form\x20Data</h3>";
-        for (let _0x391d16 in _0x12e09c) {
-          _0x12e09c[_0xc389b9(0x1a6)](_0x391d16) &&
-            (_0x1aed68 +=
-              _0xc389b9(0x1aa) +
-              _0x391d16 +
+  const _0x268a19 = _0x285085;
+  chrome[_0x268a19(0xd3)]["sync"][_0x268a19(0xcc)](
+    _0x268a19(0xa0),
+    function (_0x2bc633) {
+      const _0x1439da = _0x268a19,
+        _0x1a5d9c = _0x2bc633[_0x1439da(0xa0)] || null,
+        _0x4c161b = document[_0x1439da(0xd1)](_0x1439da(0xb2));
+      if (_0x1a5d9c) {
+        let _0x16ed32 = "";
+        _0x16ed32 += _0x1439da(0xd5);
+        for (let _0x55fe88 in _0x1a5d9c) {
+          _0x1a5d9c["hasOwnProperty"](_0x55fe88) &&
+            (_0x16ed32 +=
+              _0x1439da(0xc9) +
+              _0x55fe88 +
               ":\x20" +
-              _0x12e09c[_0x391d16] +
-              _0xc389b9(0x1b7));
+              _0x1a5d9c[_0x55fe88] +
+              _0x1439da(0xbb));
         }
-        _0x19da7b[_0xc389b9(0x19a)] = _0x1aed68;
-      } else _0x19da7b[_0xc389b9(0x188)] = _0xc389b9(0x1c9);
+        _0x4c161b[_0x1439da(0xa3)] = _0x16ed32;
+      } else _0x4c161b["textContent"] = _0x1439da(0xc8);
     }
   );
 }
-function _0x53d4() {
-  const _0x22ddcf = [
-    "bold",
-    "center",
-    "sync",
-    "fill_form",
-    "storage",
-    "pointer",
-    "log",
-    "477664MnIIFE",
-    "1727220tkINwJ",
-    "readAsBinaryString",
-    "sendMessage",
-    "2205936kFgNDx",
-    "16px",
-    "file-input",
-    "file",
-    "name",
-    "No\x20form\x20data\x20found,\x20Please\x20Upload\x20An\x20Excel\x20file",
-    "tabs",
-    "assign",
-    "DOMContentLoaded",
-    "600IzYkuH",
-    "file-label",
-    "SheetNames",
-    "addEventListener",
-    "textContent",
-    "utils",
-    "read",
-    "formData",
-    "createElement",
-    "form-details",
-    "8px",
-    "color",
-    "get",
-    "1gmkASJ",
-    "style",
-    "click",
-    "query",
-    "4px",
-    "button",
-    "hidden",
-    "binary",
-    "5999IDufEB",
-    "innerHTML",
-    "Choose\x20Excel\x20File",
-    "8px\x2016px",
-    "11596xBgMwx",
-    ".xlsx,\x20.xls",
-    "file-text",
-    "Sheets",
-    "result",
-    "281058yYltFD",
-    "#555",
-    "9fTdMlH",
-    "input",
-    "hasOwnProperty",
-    "none",
-    "getElementById",
-    "appendChild",
-    "<p>",
-    "flex",
-    "target",
-    "label",
-    "#ffffff",
-    "preventDefault",
-    "205VsdZhH",
-    "1px\x20solid\x20#ccc",
-    "nowrap",
-    "excelFileBtn",
-    "popup-content",
-    "className",
-    "files",
-    "</p>",
-    "309076AFVYFm",
-  ];
-  _0x53d4 = function () {
-    return _0x22ddcf;
-  };
-  return _0x53d4();
-}
-function handleFileChange(_0x5d7d4d) {
-  const _0x5af81b = _0x151c96;
-  _0x5d7d4d[_0x5af81b(0x1af)]();
-  const _0x414333 = _0x5d7d4d["target"][_0x5af81b(0x1b6)][0x0];
-  if (_0x414333) {
-    const _0x28459a = new FileReader();
-    (_0x28459a["onload"] = function (_0x4af035) {
-      const _0x7961e8 = _0x5af81b,
-        _0x4035eb = _0x4af035[_0x7961e8(0x1ac)][_0x7961e8(0x1a1)],
-        _0x9272e2 = XLSX[_0x7961e8(0x18a)](_0x4035eb, {
-          type: _0x7961e8(0x198),
-        }),
-        _0x3ea08e = _0x9272e2[_0x7961e8(0x186)][0x0],
-        _0xf60448 = _0x9272e2[_0x7961e8(0x1a0)][_0x3ea08e],
-        _0x505d13 = XLSX[_0x7961e8(0x189)]["sheet_to_json"](_0xf60448, {
+function handleFileChange(_0x50ecad) {
+  const _0x42a932 = _0x285085;
+  _0x50ecad["preventDefault"]();
+  const _0x45c49a = _0x50ecad["target"][_0x42a932(0x9b)][0x0];
+  if (_0x45c49a) {
+    const _0x25debe = new FileReader();
+    (_0x25debe["onload"] = function (_0x592c80) {
+      const _0x16fb3a = _0x42a932,
+        _0x5a2b30 = _0x592c80[_0x16fb3a(0xaf)]["result"],
+        _0x1db928 = XLSX["read"](_0x5a2b30, { type: _0x16fb3a(0x98) }),
+        _0x2657e5 = _0x1db928[_0x16fb3a(0x93)][0x0],
+        _0x277ec1 = _0x1db928[_0x16fb3a(0x95)][_0x2657e5],
+        _0x1da698 = XLSX[_0x16fb3a(0x8a)][_0x16fb3a(0xbe)](_0x277ec1, {
           header: 0x1,
           defval: "",
         }),
-        _0x4581ea = {};
-      _0x505d13["forEach"]((_0x30c548) => {
-        _0x4581ea[_0x30c548[0x0]] = _0x30c548[0x1];
+        _0x186f00 = {};
+      _0x1da698[_0x16fb3a(0xbc)]((_0x1935a8) => {
+        _0x186f00[_0x1935a8[0x0]] = _0x1935a8[0x1];
       }),
-        chrome[_0x7961e8(0x1bd)][_0x7961e8(0x1bb)]["set"]({
-          formData: _0x4581ea,
+        chrome[_0x16fb3a(0xd3)]["sync"][_0x16fb3a(0xa6)]({
+          formData: _0x186f00,
         }),
         fetchFormValues();
     }),
-      _0x28459a[_0x5af81b(0x1c2)](_0x414333);
+      _0x25debe[_0x42a932(0x9a)](_0x45c49a);
   }
 }
-function fillForm() {
-  const _0x2798d0 = _0x151c96;
-  chrome[_0x2798d0(0x1ca)][_0x2798d0(0x194)](
-    { active: !![], currentWindow: !![] },
-    function (_0x253086) {
-      const _0x110a6e = _0x2798d0,
-        _0x3acfb8 = _0x253086[0x0];
-      _0x3acfb8["id"] &&
-        chrome[_0x110a6e(0x1ca)][_0x110a6e(0x1c3)](
-          _0x3acfb8["id"],
-          { event: _0x110a6e(0x1bc), tabId: _0x3acfb8["id"] },
-          (_0x36d5ee) => {
-            const _0x93cd4e = _0x110a6e;
-            console[_0x93cd4e(0x1bf)]("result\x20message:", _0x36d5ee);
-          }
-        );
-    }
-  );
+function fillForm(_0x982fac) {
+  const _0x48858e = _0x285085;
+  (_0x982fac[_0x48858e(0xd6)] = _0x48858e(0xba)),
+    (_0x982fac[_0x48858e(0xcb)] = !![]),
+    chrome[_0x48858e(0xca)][_0x48858e(0x91)](
+      { active: !![], currentWindow: !![] },
+      function (_0x5f7db1) {
+        const _0x4b2c1a = _0x48858e,
+          _0x3979fa = _0x5f7db1[0x0];
+        _0x3979fa["id"] &&
+          chrome["tabs"][_0x4b2c1a(0xd4)](
+            _0x3979fa["id"],
+            { event: _0x4b2c1a(0xb6), tabId: _0x3979fa["id"] },
+            (_0x22b5d5) => {
+              const _0x43d713 = _0x4b2c1a;
+              (_0x982fac[_0x43d713(0xd6)] = _0x43d713(0xd0)),
+                (_0x982fac["disabled"] = ![]),
+                console[_0x43d713(0xc7)]("result\x20message:", _0x22b5d5);
+            }
+          );
+      }
+    );
 }
-document[_0x151c96(0x187)](_0x151c96(0x1cc), function () {
-  const _0x33027e = _0x151c96;
-  fetchFormValues();
-  const _0x43f243 = document[_0x33027e(0x18c)]("div");
-  (_0x43f243["id"] = _0x33027e(0x18d)),
-    (_0x43f243[_0x33027e(0x192)][_0x33027e(0x18f)] = _0x33027e(0x1a3));
-  const _0x1cb265 = document[_0x33027e(0x18c)](_0x33027e(0x1ad));
-  (_0x1cb265["htmlFor"] = _0x33027e(0x1b3)),
-    (_0x1cb265[_0x33027e(0x1b5)] = _0x33027e(0x185)),
-    Object[_0x33027e(0x1cb)](_0x1cb265[_0x33027e(0x192)], fileInputStyles);
-  const _0x801225 = document[_0x33027e(0x18c)]("span");
-  (_0x801225[_0x33027e(0x1b5)] = _0x33027e(0x19f)),
-    Object[_0x33027e(0x1cb)](_0x801225[_0x33027e(0x192)], fileTextStyles),
-    (_0x801225[_0x33027e(0x188)] = _0x33027e(0x19b));
-  const _0x1b08ac = document["createElement"](_0x33027e(0x1a5));
-  (_0x1b08ac["type"] = _0x33027e(0x1c7)),
-    (_0x1b08ac[_0x33027e(0x1c8)] = "excelFile"),
-    (_0x1b08ac["id"] = _0x33027e(0x1b3)),
-    (_0x1b08ac["accept"] = _0x33027e(0x19e)),
-    (_0x1b08ac[_0x33027e(0x1b5)] = _0x33027e(0x1c6)),
-    Object[_0x33027e(0x1cb)](
-      _0x1b08ac[_0x33027e(0x192)],
-      fileInputHiddenStyles
-    ),
-    _0x1b08ac[_0x33027e(0x187)]("change", handleFileChange),
-    _0x1cb265["appendChild"](_0x801225),
-    _0x1cb265[_0x33027e(0x1a9)](_0x1b08ac);
-  const _0x1cc542 = document["createElement"](_0x33027e(0x196));
-  (_0x1cc542[_0x33027e(0x188)] = "Fill\x20the\x20Form"),
-    _0x1cc542[_0x33027e(0x187)](_0x33027e(0x193), fillForm),
-    Object[_0x33027e(0x1cb)](_0x1cc542[_0x33027e(0x192)], buttonStyles);
-  const _0x42a68c = document[_0x33027e(0x1a8)](_0x33027e(0x1b4));
-  _0x42a68c["appendChild"](_0x1cb265),
-    _0x42a68c[_0x33027e(0x1a9)](_0x1cc542),
-    _0x42a68c[_0x33027e(0x1a9)](_0x43f243);
-});
+const styleSheet = document[_0x285085(0xce)](_0x285085(0xc4));
+(styleSheet[_0x285085(0x8d)] = _0x285085(0xcf)),
+  (styleSheet["innerText"] = _0x285085(0x9f)),
+  document[_0x285085(0xda)]["appendChild"](styleSheet),
+  document[_0x285085(0xd8)](_0x285085(0xa1), function () {
+    const _0x1ed3cd = _0x285085;
+    fetchFormValues();
+    const _0x3b9edb = document[_0x1ed3cd(0xce)](_0x1ed3cd(0xb9));
+    (_0x3b9edb["id"] = "form-details"),
+      (_0x3b9edb["style"]["color"] = _0x1ed3cd(0x8c));
+    const _0x40fd28 = document["createElement"](_0x1ed3cd(0xa5));
+    (_0x40fd28["htmlFor"] = _0x1ed3cd(0xac)),
+      (_0x40fd28["className"] = _0x1ed3cd(0xb5)),
+      Object[_0x1ed3cd(0xd2)](_0x40fd28[_0x1ed3cd(0xc4)], fileInputStyles);
+    const _0x594f89 = document[_0x1ed3cd(0xce)](_0x1ed3cd(0xc2));
+    (_0x594f89["className"] = _0x1ed3cd(0x96)),
+      Object[_0x1ed3cd(0xd2)](_0x594f89["style"], fileTextStyles),
+      (_0x594f89[_0x1ed3cd(0xd6)] = _0x1ed3cd(0x92));
+    const _0x5c32c4 = document[_0x1ed3cd(0xce)](_0x1ed3cd(0x99));
+    (_0x5c32c4[_0x1ed3cd(0x8d)] = _0x1ed3cd(0xb4)),
+      (_0x5c32c4[_0x1ed3cd(0xc0)] = "excelFile"),
+      (_0x5c32c4["id"] = _0x1ed3cd(0xac)),
+      (_0x5c32c4[_0x1ed3cd(0xad)] = _0x1ed3cd(0xc6)),
+      (_0x5c32c4[_0x1ed3cd(0xcd)] = _0x1ed3cd(0xd7)),
+      Object["assign"](_0x5c32c4["style"], fileInputHiddenStyles),
+      _0x5c32c4[_0x1ed3cd(0xd8)]("change", handleFileChange),
+      _0x40fd28["appendChild"](_0x594f89),
+      _0x40fd28["appendChild"](_0x5c32c4);
+    const _0x36fe06 = document[_0x1ed3cd(0xce)](_0x1ed3cd(0xa2));
+    (_0x36fe06[_0x1ed3cd(0xd6)] = _0x1ed3cd(0xd0)),
+      _0x36fe06[_0x1ed3cd(0xd8)](_0x1ed3cd(0x97), () => {
+        const _0x4b5582 = _0x1ed3cd;
+        _0x36fe06[_0x4b5582(0xaa)][_0x4b5582(0xb0)](_0x4b5582(0xb7));
+      }),
+      _0x36fe06[_0x1ed3cd(0xd8)](_0x1ed3cd(0xdb), () => {
+        const _0x17d2ee = _0x1ed3cd;
+        _0x36fe06[_0x17d2ee(0xaa)][_0x17d2ee(0xc5)](_0x17d2ee(0xb7));
+      }),
+      _0x36fe06["addEventListener"](_0x1ed3cd(0xbd), () => {
+        const _0x139cc5 = _0x1ed3cd;
+        _0x36fe06[_0x139cc5(0xaa)][_0x139cc5(0xc5)]("button-active");
+      }),
+      _0x36fe06[_0x1ed3cd(0xd8)]("click", () => fillForm(_0x36fe06)),
+      Object[_0x1ed3cd(0xd2)](_0x36fe06[_0x1ed3cd(0xc4)], buttonStyles);
+    const _0x57114b = document[_0x1ed3cd(0xd1)]("popup-content");
+    _0x57114b["appendChild"](_0x40fd28),
+      _0x57114b["appendChild"](_0x36fe06),
+      _0x57114b[_0x1ed3cd(0xa8)](_0x3b9edb);
+  });
